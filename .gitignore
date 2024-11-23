@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
@@ -7,7 +11,10 @@ node_modules/
 .expo/
 dist/
 web-build/
+<<<<<<< HEAD
 expo-env.d.ts
+=======
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00
 
 # Native
 *.orig.*
@@ -34,3 +41,43 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+<<<<<<< HEAD
+=======
+=======
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+>>>>>>> 68661550ac9895d816d1f77a906ca609472040aa
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00

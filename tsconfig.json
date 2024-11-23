@@ -1,6 +1,21 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true
   }
 }
+<<<<<<< HEAD
+=======
+=======
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  }
+}
+>>>>>>> 68661550ac9895d816d1f77a906ca609472040aa
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00

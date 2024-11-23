@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 {
   "name": "diningapp",
   "version": "1.0.0",
   "main": "index.ts",
+=======
+<<<<<<< HEAD
+{
+  "name": "part-2-poe",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -9,6 +17,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-native-picker/picker": "2.9.0",
     "@react-navigation/native": "^7.0.4",
     "@react-navigation/native-stack": "^7.1.1",
@@ -23,7 +32,57 @@
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~18.3.12",
+=======
+    "@react-native-picker/picker": "^2.7.5",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@react-navigation/stack": "^6.4.1",
+    "expo": "^51.0.37",
+    "expo-status-bar": "~1.12.1",
+    "react": "^18.2.0",
+    "react-native": "^0.74.5",
+    "react-native-safe-area-context": "^4.10.5",
+    "react-native-screens": "^3.31.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.2.45",
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00
     "typescript": "^5.3.3"
   },
   "private": true
 }
+<<<<<<< HEAD
+=======
+=======
+{
+  "name": "part-2-poe",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-picker/picker": "^2.7.5",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@react-navigation/stack": "^6.4.1",
+    "expo": "^51.0.37",
+    "expo-status-bar": "~1.12.1",
+    "react": "^18.2.0",
+    "react-native": "^0.74.5",
+    "react-native-safe-area-context": "^4.10.5",
+    "react-native-screens": "^3.31.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.2.45",
+    "typescript": "^5.3.3"
+  },
+  "private": true
+}
+>>>>>>> 68661550ac9895d816d1f77a906ca609472040aa
+>>>>>>> 60bd1bca239e7bbec998086747c5e26a68849b00
